@@ -4,4 +4,5 @@ The calculator is able to do integer and decimal + - x / 10^n and complex bracke
 "ANS" and delete keys are also achieved to make it more realistic.
 
 Beside, this calculator also contains password at starting page, and has function to reset password.
+
 To make it multi-functional, This calculator is also be able to solve linear and quadratic equations.
